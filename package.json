@@ -1,0 +1,20 @@
+{
+    "version": "0.0.1",
+    "name": "gun-react-native",
+    "author": "sjones6",
+    "main": "index.js",
+    "description": "A distribution of Gun designed to work with React Native out of the box",
+    "keywords": [
+        "Gun", "GunDB", "GunJS", "React Native"
+    ],
+    "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/sjones6/gun-react-native.git"
+    },
+    "author": "sjones6",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/sjones6/gun-react-native/issues"
+    },
+    "homepage": "https://github.com/sjones6/gun-react-native#readme"
+}
